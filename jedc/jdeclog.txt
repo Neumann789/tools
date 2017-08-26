@@ -1,0 +1,11 @@
+[INFO]Magic Number of the Class "MethodTimeCost.class" Is CAFEBABE
+[INFO]class Version is 51.0
+
+Class File Version Number: 51.0 is not supported officially
+However Jdec will try to decompile the class now.
+To disable such class file decompilation , please specify false for skip_class_version_check in 		config.properties[INFO]Magic Number of the Class "MethodTimeCost.class" Is CAFEBABE
+[INFO]class Version is 51.0
+
+Class File Version Number: 51.0 is not supported officially
+However Jdec will try to decompile the class now.
+To disable such class file decompilation , please specify false for skip_class_version_check in 		config.properties

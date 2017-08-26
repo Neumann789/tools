@@ -1,0 +1,44 @@
+//  Decompiled by jdec
+//  DECOMPILER HOME PAGE: jdec.sourceforge.net
+//  Main HOSTING SITE: sourceforge.net
+//  Copyright (C)2006,2007,2008 Swaroop Belur.
+//  jdec comes with ABSOLUTELY NO WARRANTY;
+//  This is free software, and you are welcome to redistribute
+//  it under certain conditions;
+//  See the File 'COPYING' For more details.
+
+/**** List of All Imported Classes ***/
+
+import com.sun.btrace.BTraceUtils;
+import java.lang.Object;
+
+// End of Import
+
+
+ @com.sun.btrace.annotations.BTrace()
+public  class  MethodTimeCost 
+
+{
+
+
+//  CLASS: MethodTimeCost:
+ public     MethodTimeCost( ) 
+ {
+    super();
+    return;
+
+ }
+
+
+ @com.sun.btrace.annotations.OnMethod(clazz = "com.learn.btrace.BtraceExecute",method = "execute")
+
+//  CLASS: MethodTimeCost:
+ public  static    void endExecute( ) 
+ {
+    BTraceUtils.println("com.learn.btrace.BtraceExecute");
+    return;
+
+ }
+
+
+}

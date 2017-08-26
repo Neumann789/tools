@@ -1,0 +1,3 @@
+[INFO]Magic Number of the Class "MethodTimeCost.class" Is CAFEBABE
+[INFO]class Version is 51.0
+
